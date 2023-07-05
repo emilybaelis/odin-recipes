@@ -3,4 +3,11 @@ div {
 }
 h1 {
     color:darkgreen;
+    text-align: center;
+    
+}
+
+#body {
+    text-align:center;
+    color:coral;
 }
